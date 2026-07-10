@@ -7,25 +7,25 @@
 <h1 align="center">Hi there, I'm Léandre! 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | TypeScript, Rust & AI Integrations Enthusiast</b>
+  <b>Full-Stack Developer | AI Agents, TypeScript & Systems Specialist</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/leandre755">
     <img src="https://komarev.com/ghpvc/?username=leandre755&label=Profile%20views&color=0e75b6&style=flat-square" alt="leandre755" />
   </a>
-  <img src="https://img.shields.io/badge/Version-2.0.0-3FB950?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.2.0-3FB950?style=flat-square" alt="Version" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate and dedicated Full-Stack Software Developer focused on building high-performance, robust, and scalable applications. I have a strong affinity for **TypeScript**, **Rust**, and modern front-end frameworks. I love automating workflows, building intelligent integrations (like Google Gemini AI), and contributing to open-source ecosystems.
+I am a passionate and dedicated Full-Stack Software Developer specializing in **TypeScript**, **Python**, **JavaScript**, and **Rust**. I enjoy building high-performance architectures, developing intelligent AI agents, creating custom browser extensions, and contributing to open-source systems.
 
-- 🔭 I’m currently working on full-stack web and systems architectures.
-- 🧠 I'm deep diving into AI-driven automation, Playwright web-scraping pipelines, and high-performance databases (SQLite, PostgreSQL).
-- 🤝 I collaborate actively with developers on open-source ecosystems.
+- 🔭 **Areas of Expertise**: AI Agents & MCP Servers, Chrome Extensions, Full-Stack Web Development, Systems Programming.
+- 🧠 **Active Focus**: Advanced AI-driven automation, Playwright web-scraping pipelines, and high-performance databases (SQLite, PostgreSQL).
+- 🤝 **Open Source**: Enthusiastic contributor to collaborative developer tools and environments.
 
 ---
 
@@ -35,6 +35,7 @@ I am a passionate and dedicated Full-Stack Software Developer focused on buildin
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   
@@ -63,15 +64,30 @@ I am a passionate and dedicated Full-Stack Software Developer focused on buildin
 
 ### 🌟 Featured Projects
 
-#### ⚽ **[football-prono-ai](https://github.com/leandre755/football-prono-ai)**
-*   **Role**: Core Developer & Main Contributor (Migrated frontend to React + Vite, integrated SQLite db persistance, Wikipedia logos async resolution, and Render multi-services blueprint).
-*   **Tech Stack**: React, Node.js, Express, Playwright, SQLite, Gemini AI.
-*   <img src="https://img.shields.io/github/languages/top/leandre755/football-prono-ai?style=flat-square&color=yellow" alt="Top Language" /> <img src="https://img.shields.io/github/stars/leandre755/football-prono-ai?style=flat-square" alt="Stars" />
+#### 🤖 **[gui_agent](https://github.com/leandre755/gui_agent)** `🔒 Private`
+*   **Description**: A State-of-the-Art Model Context Protocol (MCP) GUI Agent Server.
+*   **Tech Stack**: Python.
+*   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" alt="Language" />
 
-#### 🧠 **[HIVE-MIND](https://github.com/leandre755/HIVE-MIND)**
-*   **Role**: Developer & Maintainer (Forked and actively expanding the core features of the collaborative TypeScript codebase).
+#### ⚽ **[football-prono-ai](https://github.com/leandre755/football-prono-ai)** `🌐 Public`
+*   **Description**: Full-stack football prediction app with real-time Playwright scraping and Google Gemini analysis.
+*   **Tech Stack**: React, Node.js, Express, Playwright, SQLite, Gemini AI.
+*   <img src="https://img.shields.io/github/languages/top/leandre755/football-prono-ai?style=flat-square&color=yellow" alt="Top Language" />
+
+#### 🧠 **[HIVE-MIND](https://github.com/leandre755/HIVE-MIND)** `🌐 Public` & **[HIVE-MIND-ADK](https://github.com/leandre755/HIVE-MIND-ADK)** `🔒 Private`
+*   **Description**: Collaborative environment and SDK libraries written in TypeScript.
 *   **Tech Stack**: TypeScript, Node.js.
-*   <img src="https://img.shields.io/github/languages/top/leandre755/HIVE-MIND?style=flat-square&color=blue" alt="Top Language" /> <img src="https://img.shields.io/github/stars/leandre755/HIVE-MIND?style=flat-square" alt="Stars" />
+*   <img src="https://img.shields.io/github/languages/top/leandre755/HIVE-MIND?style=flat-square&color=blue" alt="Top Language" />
+
+#### 🧩 **[Elearning_extension](https://github.com/leandre755/Elearning_extension)** `🔒 Private`
+*   **Description**: Custom Chrome extension designed for e-learning content management.
+*   **Tech Stack**: JavaScript, HTML/CSS.
+*   <img src="https://img.shields.io/badge/Platform-Chrome_Extension-orange?style=flat-square" alt="Extension" />
+
+#### 📚 **[LibreSavoir](https://github.com/leandre755/LibreSavoir)** `🔒 Private`
+*   **Description**: A simple and clean learning resource repository.
+*   **Tech Stack**: TypeScript, Markdown.
+*   <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square" alt="Language" />
 
 ### 🤝 Major Contributions
 
@@ -79,14 +95,14 @@ I am a passionate and dedicated Full-Stack Software Developer focused on buildin
 *   Active contributor to the HIVE-MIND ecosystem, collaborating on core algorithms, typescript structures, and performance improvements.
 
 #### 🌌 **[omni01-Cell/AETHER](https://github.com/omni01-Cell/AETHER)**
-*   Contributor to the AETHER system tools, focusing on performance critical features built in **Rust**.
+*   Contributor to the AETHER system tools, focusing on performance-critical features built in **Rust**.
 
 ---
 
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandre755&show_icons=true&theme=tokyonight" alt="Léandre's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandre755&show_icons=true&theme=tokyonight&count_private=true" alt="Léandre's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandre755&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandre755&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </div>
