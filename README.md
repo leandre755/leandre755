@@ -14,7 +14,7 @@
   <a href="https://github.com/leandre755">
     <img src="https://komarev.com/ghpvc/?username=leandre755&label=Profile%20views&color=0e75b6&style=flat-square" alt="leandre755" />
   </a>
-  <img src="https://img.shields.io/badge/Version-2.2.0-3FB950?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.3.0-3FB950?style=flat-square" alt="Version" />
 </p>
 
 ---
@@ -89,7 +89,12 @@ I am a passionate and dedicated Full-Stack Software Developer specializing in **
 *   **Tech Stack**: TypeScript, Markdown.
 *   <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square" alt="Language" />
 
-### 🤝 Major Contributions
+### 🤝 Major Contributions & Maintained Repositories
+
+#### 🔍 **[omni01-Cell/intelligible-search](https://github.com/omni01-Cell/intelligible-search)** `🌐 Public`
+*   **Role**: Sole Developer & Creator (Built the entire framework for semantic/intelligible research and parsing).
+*   **Tech Stack**: Python.
+*   <img src="https://img.shields.io/github/languages/top/omni01-Cell/intelligible-search?style=flat-square&color=blue" alt="Top Language" />
 
 #### 🛡️ **[omni01-Cell/HIVE-MIND](https://github.com/omni01-Cell/HIVE-MIND)**
 *   Active contributor to the HIVE-MIND ecosystem, collaborating on core algorithms, typescript structures, and performance improvements.
