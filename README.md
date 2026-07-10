@@ -14,7 +14,7 @@
   <a href="https://github.com/leandre755">
     <img src="https://komarev.com/ghpvc/?username=leandre755&label=Profile%20views&color=0e75b6&style=flat-square" alt="leandre755" />
   </a>
-  <img src="https://img.shields.io/badge/Version-2.3.0-3FB950?style=flat-square" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-2.3.1-3FB950?style=flat-square" alt="Version" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ I am a passionate and dedicated Full-Stack Software Developer specializing in **
 ### 🌟 Featured Projects
 
 #### 🤖 **[gui_agent](https://github.com/leandre755/gui_agent)** `🔒 Private`
-*   **Description**: A State-of-the-Art Model Context Protocol (MCP) GUI Agent Server.
+*   **Description**: Model Context Protocol (MCP) GUI Agent Server.
 *   **Tech Stack**: Python.
 *   <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square" alt="Language" />
 
@@ -92,7 +92,7 @@ I am a passionate and dedicated Full-Stack Software Developer specializing in **
 ### 🤝 Major Contributions & Maintained Repositories
 
 #### 🔍 **[omni01-Cell/intelligible-search](https://github.com/omni01-Cell/intelligible-search)** `🌐 Public`
-*   **Role**: Sole Developer & Creator (Built the entire framework for semantic/intelligible research and parsing).
+*   **Role**: Creator & Maintainer (Framework for semantic research and parsing).
 *   **Tech Stack**: Python.
 *   <img src="https://img.shields.io/github/languages/top/omni01-Cell/intelligible-search?style=flat-square&color=blue" alt="Top Language" />
 
